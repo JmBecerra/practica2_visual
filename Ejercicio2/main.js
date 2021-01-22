@@ -69,7 +69,7 @@ function anadir() {
 }
 
 function borrar() {
-    alert("Has pulsado borrar");
+    alert("Has pulsado borrar, se borraran los datos");
     // var element = document.getSelection.name;
     // alert(element);
     // var id = elemento.id;
